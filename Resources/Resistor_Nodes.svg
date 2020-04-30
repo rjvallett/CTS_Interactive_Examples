@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50.4 21.6" style="enable-background:new 0 0 50.4 21.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#F7941D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:none;stroke:#000000;stroke-width:3.6;stroke-miterlimit:10;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{font-size:6px;}
+</style>
+<g>
+	<g>
+		<polyline class="st0" points="43.2,10.8 36,10.8 34.2,14.4 30.6,7.2 27,14.4 23.4,7.2 19.8,14.4 16.2,7.2 14.4,10.8 7.2,10.8 		
+			"/>
+		<g>
+			<path d="M43.2,8.92c1.04,0,1.88,0.84,1.88,1.88s-0.84,1.88-1.88,1.88c-1.04,0-1.88-0.84-1.88-1.88S42.16,8.92,43.2,8.92z"/>
+		</g>
+		<g>
+			<path d="M7.2,8.92c-1.04,0-1.88,0.84-1.88,1.88s0.84,1.88,1.88,1.88c1.04,0,1.88-0.84,1.88-1.88S8.24,8.92,7.2,8.92z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 2.1627 5.4)" class="st9 st10">v</text>
+<text transform="matrix(0.583 0 0 0.583 5.0484 7.398)" class="st9 st10">1</text>
+<text transform="matrix(1 0 0 1 6.8429 5.4)" class="st9 st10">(t)</text>
+<text transform="matrix(1 0 0 1 38.1626 5.4)" class="st9 st10">v</text>
+<text transform="matrix(0.583 0 0 0.583 41.0483 7.398)" class="st9 st10">2</text>
+<text transform="matrix(1 0 0 1 42.8428 5.4)" class="st9 st10">(t)</text>
+</svg>
